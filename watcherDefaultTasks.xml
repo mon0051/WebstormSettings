@@ -121,10 +121,10 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="scss --no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
-      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="false" />
       <option name="name" value="SCSS" />
@@ -132,9 +132,9 @@
       <option name="outputFilters">
         <array />
       </option>
-      <option name="outputFromStdout" value="true" />
-      <option name="program" value="C:/Git/projects/LWB.CIRTS.WebApi.Docs/TestHarness/node_modules/.bin/node-sass.cmd" />
-      <option name="scopeName" value="cssOverrides" />
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/Git/projects/Angular2TestHarness/bin/Ruby22/bin/scss.bat" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
@@ -173,6 +173,25 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$ProjectFileDir$/scripts/copySwaggerToProject.cmd" />
       <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="copy $ProjectFileDir$\app\css\$FileName$ $ProjectFileDir$\app\app.css" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="css" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="MoveCssToAppRoot" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="C:/Windows/System32/cmd.exe" />
+      <option name="scopeName" value="css" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
