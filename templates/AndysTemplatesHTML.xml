@@ -1,0 +1,19 @@
+<templateSet group="AndysTemplatesHTML">
+  <template name="divc" value="&lt;div class=&quot;$PARAM$&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;" description="div with class" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="divcs" value="&lt;div class=&quot;$PARAM$&quot;&gt;&#10;    $SELECTION$&#10;&lt;/div&gt;" description="surround an element with a div with class" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ngtab" value="asd" description="ng-table pointing to api" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
