@@ -121,21 +121,21 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileName$:$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="--update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
       <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Git/projects/Angular2TestHarness/bin/Ruby22/bin/sass.bat" />
+      <option name="program" value="sass" />
       <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="false" />
+      <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
@@ -152,8 +152,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Git/projects/LWB.CIRTS.WebApi.Docs/node_modules/.bin/yaml2json.cmd" />
-      <option name="scopeName" value="swaggerSpec" />
+      <option name="program" value="$ProjectFileDir$/node_modules/.bin/yaml2json" />
+      <option name="scopeName" value="swaggerYaml" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
@@ -192,6 +192,25 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Windows/System32/cmd.exe" />
       <option name="scopeName" value="css" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="scripts/webifyJson/webify.rb swagger/swagger.json app swagger.spec app/swagger/swagger-spec.js" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="json" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="WebifyJson" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="/usr/bin/ruby" />
+      <option name="scopeName" value="SwaggerJson" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
