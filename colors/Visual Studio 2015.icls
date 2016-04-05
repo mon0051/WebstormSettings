@@ -673,5 +673,28 @@
         <option name="FOREGROUND" value="bc3f3c" />
       </value>
     </option>
+    <option name="Yaml Bad Character">
+      <value>
+        <option name="FOREGROUND" value="c8c8c8" />
+        <option name="EFFECT_COLOR" value="c8c8c8" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Yaml Comments">
+      <value>
+        <option name="FOREGROUND" value="807d74" />
+      </value>
+    </option>
+    <option name="Yaml Identifier">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Yaml Specials">
+      <value>
+        <option name="FOREGROUND" value="50e3ca" />
+      </value>
+    </option>
   </attributes>
 </scheme>

@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="yaml" type="SnakeYAML" />
+      <mapping ext="yml" type="SnakeYAML" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
