@@ -1,9 +1,16 @@
 <scheme name="Visual Studio 2015" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.03" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -688,7 +695,6 @@
     <option name="Yaml Identifier">
       <value>
         <option name="FOREGROUND" value="569cd6" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Yaml Specials">
