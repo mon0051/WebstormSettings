@@ -133,7 +133,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby22/bin/scss.bat" />
+      <option name="program" value="$ProjectFileDir$/node_modules/.bin/node-sass" />
       <option name="scopeName" value="not_node" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -266,10 +266,10 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$ProjectFileDir$/node_modules/.bin/gulp.cmd" />
+      <option name="program" value="$ProjectFileDir$/node_modules/.bin/gulp" />
       <option name="scopeName" value="css" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="C:\Git\projects\ForeFront" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
   </component>
