@@ -55,7 +55,7 @@
         <option name="FOREGROUND" value="b5cea8" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="XML_TAG" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="569cd6" />

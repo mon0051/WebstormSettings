@@ -413,7 +413,6 @@
         <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA" baseAttributes="TEXT" />
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
@@ -478,7 +477,6 @@
         <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
-    <option name="DEFAULT_INVALID_STRING_ESCAPE" baseAttributes="TEXT" />
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cda869" />
@@ -525,7 +523,6 @@
         <option name="FOREGROUND" value="9b859d" />
       </value>
     </option>
-    <option name="DEFAULT_SEMICOLON" baseAttributes="TEXT" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="7587a6" />
