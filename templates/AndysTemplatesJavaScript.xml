@@ -2,18 +2,12 @@
   <template name="closure-wrap" value="(function(){&#10;    $SELECTION$&#10;}());" description="wraps selection in a closure" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="mod" value="angular&#10;    .module('$module_name$')$END$;" description="references a angular module" toReformat="false" toShortenFQNames="true">
     <variable name="module_name" expression="snakeCase(String)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
