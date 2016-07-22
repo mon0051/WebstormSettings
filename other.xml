@@ -81,6 +81,6 @@
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="4.4.1" last-modified="1458635946000" />
+    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="(Does not exist)" last-modified="1469103320203" />
   </component>
 </application>
