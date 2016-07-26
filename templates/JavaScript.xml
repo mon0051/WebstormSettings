@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="clos" value="(function(){&#10;    $END$&#10;}());" description="Closure" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
