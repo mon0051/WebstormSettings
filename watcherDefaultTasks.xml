@@ -215,7 +215,7 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="$FilePath$ --source-maps --out-file $FileNameWithoutExtension$-compiled.js" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Transpiles ECMAScript 6 code to ECMAScript 5" />
@@ -228,8 +228,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$ProjectFileDir$/node_modules/.bin/babel.cmd" />
-      <option name="scopeName" value="not_node" />
+      <option name="program" value="$ProjectFileDir$/client/node_modules/.bin/babel.cmd" />
+      <option name="scopeName" value="just_index" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
