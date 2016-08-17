@@ -223,7 +223,7 @@
       <option name="fileExtension" value="es6" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Babel" />
-      <option name="output" value="$FileNameWithoutExtension$-js:$FileNameWithoutExtension$-.js.map" />
+      <option name="output" value="$FileNameWithoutExtension$.js:$FileNameWithoutExtension$.js.map" />
       <option name="outputFilters">
         <array />
       </option>
