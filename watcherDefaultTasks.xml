@@ -228,7 +228,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$ProjectFileDir$/node_modules/.bin/babel" />
+      <option name="program" value="$ProjectFileDir$/babel.run.cmd" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
