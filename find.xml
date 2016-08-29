@@ -3,9 +3,7 @@
     <option name="customScope" value="NotNode" />
     <option name="defaultScopeName" value="NotNode" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="NotNode" />
     <recentFileMasks>
       <mask>*.properties</mask>
