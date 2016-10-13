@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="cshtml" type="Handlebars/Mustache" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="config" type="XML" />
     </extensionMap>
   </component>
 </application>
