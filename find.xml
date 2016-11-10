@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[ForeFront] - ...\client\app\KiandraTimesheets\TimesheetEntry.ts'" />
-    <option name="defaultScopeName" value="File '[ForeFront] - ...\client\app\KiandraTimesheets\TimesheetEntry.ts'" />
+    <option name="customScope" value="Our Code" />
+    <option name="defaultScopeName" value="Our Code" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[ForeFront] - ...\client\app\KiandraTimesheets\TimesheetEntry.ts'" />
+    <option name="SEARCH_SCOPE" value="Our Code" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
