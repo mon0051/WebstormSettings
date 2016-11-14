@@ -3,7 +3,7 @@
     <property name="created">2016-11-14T15:30:36</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2016-11-14T15:30:41</property>
+    <property name="modified">2016-11-14T16:02:08</property>
     <property name="originalScheme">Atom</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.01" />
@@ -38,7 +38,7 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="1e1e1e" />
+    <option name="GUTTER_BACKGROUND" value="1d2026" />
     <option name="INDENT_GUIDE" value="3399ff" />
     <option name="LINE_NUMBERS_COLOR" value="569cd6" />
     <option name="METHOD_SEPARATORS_COLOR" value="f0f0f" />
@@ -355,7 +355,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="569cd6" />
+        <option name="FOREGROUND" value="c678dd" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -568,7 +568,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="dad085" />
+        <option name="FOREGROUND" value="61afef" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -580,18 +580,13 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="dad085" />
+        <option name="FOREGROUND" value="65b6f7" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="c6c5fe" />
+        <option name="FOREGROUND" value="56b6c2" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="96cbfe" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
@@ -669,7 +664,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c5c8c6" />
-        <option name="BACKGROUND" value="1d1f21" />
+        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
