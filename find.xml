@@ -3,7 +3,9 @@
     <option name="customScope" value="Our Code" />
     <option name="defaultScopeName" value="Our Code" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Our Code" />
     <recentFileMasks>
       <mask>*.properties</mask>
