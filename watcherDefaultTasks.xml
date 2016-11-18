@@ -253,7 +253,7 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Run Gulp Styles" />
@@ -269,7 +269,7 @@
       <option name="program" value="$ProjectFileDir$/client/node_modules/.bin/gulp.cmd" />
       <option name="scopeName" value="css" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$ProjectFileDir$\client" />
+      <option name="workingDir" value="$ProjectFileDir$/client" />
       <envs />
     </TaskOptions>
   </component>
