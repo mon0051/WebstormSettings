@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Our Code" />
-    <option name="defaultScopeName" value="Our Code" />
+    <option name="customScope" value="portaljs" />
+    <option name="defaultScopeName" value="portaljs" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Our Code" />
+    <option name="SEARCH_SCOPE" value="portaljs" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
