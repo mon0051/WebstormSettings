@@ -216,7 +216,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-file $FileDir$\$FileNameWithoutExtension$.js --source-maps  --presets es2015" />
+      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-file $FileDir$/$FileNameWithoutExtension$.js --source-maps  --presets es2015" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
