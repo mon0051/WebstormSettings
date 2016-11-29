@@ -1,4 +1,5 @@
 <code_scheme name="Default (2)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="HTML_ATTRIBUTE_WRAP" value="4" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="span,pre,textarea,code" />
