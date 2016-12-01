@@ -228,7 +228,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Git/optal/src/ui/node_modules/.bin/babel.cmd" />
+      <option name="program" value="C:/Git/optal/src/ui/babel.run.cmd" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
