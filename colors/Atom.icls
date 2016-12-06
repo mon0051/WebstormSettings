@@ -1,6 +1,6 @@
 <scheme name="Atom" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.01" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="18" />
