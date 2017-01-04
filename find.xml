@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[MeBank.Umbraco] - ...\css'" />
-    <option name="defaultScopeName" value="Directory '[MeBank.Umbraco] - ...\css'" />
+    <option name="customScope" value="Directory '[MeBank.Umbraco] - ...\styles'" />
+    <option name="defaultScopeName" value="Directory '[MeBank.Umbraco] - ...\styles'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[MeBank.Umbraco] - ...\css'" />
+    <option name="SEARCH_SCOPE" value="Directory '[MeBank.Umbraco] - ...\styles'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
