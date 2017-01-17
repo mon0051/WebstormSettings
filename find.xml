@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'MeBank.Umbraco'" />
-    <option name="defaultScopeName" value="Project 'MeBank.Umbraco'" />
+    <option name="customScope" value="MyCode" />
+    <option name="defaultScopeName" value="MyCode" />
     <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'MeBank.Umbraco'" />
+    <option name="SEARCH_SCOPE" value="MyCode" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
