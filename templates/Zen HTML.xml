@@ -1,5 +1,3 @@
 <templateSet group="Zen HTML">
-  <template name="col" value="&lt;col&gt;" description="&lt;col&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
+  <template name="col" value="&lt;col&gt;" description="&lt;col&gt;" toReformat="true" toShortenFQNames="true" deactivated="true" />
 </templateSet>
