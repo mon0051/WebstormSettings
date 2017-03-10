@@ -4,6 +4,7 @@
       <mapping ext="cshtml" type="Handlebars/Mustache" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="icls" type="XML" />
       <mapping ext="config" type="XML" />
     </extensionMap>
   </component>
