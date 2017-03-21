@@ -1,11 +1,11 @@
-<scheme name="Atom OneDark copy" version="142" parent_scheme="Default">
+<scheme name="Adventure" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-02-20T17:25:57</property>
+    <property name="created">2017-03-21T17:30:24</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-03-21T17:29:31</property>
-    <property name="originalScheme">Atom OneDark</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-03-21T17:43:08</property>
+    <property name="originalScheme">Atom OneDark copy1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.01" />
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -566,20 +566,25 @@
         <option name="FOREGROUND" value="62b1fe" />
       </value>
     </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="373b41" />
+      </value>
+    </option>
     <option name="JS.DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="9393cc" />
+        <option name="FOREGROUND" value="373b5f" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="61afef" />
+        <option name="FOREGROUND" value="277bd3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9393cc" />
+        <option name="FOREGROUND" value="de347a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -592,6 +597,13 @@
       <value>
         <option name="FOREGROUND" value="6d97c2" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="d3422e" />
+        <option name="EFFECT_COLOR" value="c8c8c8" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.KEYWORD">
@@ -615,9 +627,21 @@
         <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
+    <option name="JS.STATIC_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="3299cc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.STRING">
       <value>
-        <option name="FOREGROUND" value="a8ff60" />
+        <option name="FOREGROUND" value="4bae16" />
+      </value>
+    </option>
+    <option name="JS.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="f0c674" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -678,7 +702,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c5c8c6" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="BACKGROUND" value="191b1f" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
