@@ -4,7 +4,7 @@
     <property name="created">2017-03-21T17:30:24</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-03-22T17:25:03</property>
+    <property name="modified">2017-05-05T12:53:16</property>
     <property name="originalScheme">Atom OneDark copy1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.04" />
@@ -355,7 +355,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="de347a" />
+        <option name="FOREGROUND" value="f5bb12" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -675,6 +675,32 @@
         <option name="FOREGROUND" value="808080" />
         <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSS_CLASS_SELECTOR">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="ReSharper.CSS_ID_SELECTOR">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="ReSharper.CSS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c9842a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSS_VALUE">
+      <value>
+        <option name="FOREGROUND" value="d69d85" />
+      </value>
+    </option>
+    <option name="ReSharper.IL_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f5bb12" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
