@@ -121,7 +121,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileDir$\$FileName$ $FileDir$\$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -133,7 +133,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Git/snippets/genericSnippets/node_modules/.bin/node-sass.cmd" />
+      <option name="program" value="C:/tools/ruby21/bin/scss.bat" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
