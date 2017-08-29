@@ -216,22 +216,22 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FilePath$ --out-file $FileDir$\$FileNameWithoutExtension$.js --presets=C:\Git\snippets\genericSnippets\node_modules\babel-preset-es2015" />
+      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-file $FileDirRelativeToProjectRoot$\$FileNameWithoutAllExtensions$.min.js --source-maps" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="es6" />
+      <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Babel" />
-      <option name="output" value="dist\$FileDirRelativeToProjectRoot$\$FileNameWithoutExtension$.js:dist\$FileDirRelativeToProjectRoot$\$FileNameWithoutExtension$.js.map" />
+      <option name="output" value="$FileDirRelativeToProjectRoot$\$FileNameWithoutAllExtensions$.min.js" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Git/snippets/genericSnippets/node_modules/.bin/babel.cmd" />
-      <option name="scopeName" value="Project Files" />
+      <option name="program" value="C:/Git/devstuff/kiandra-estimator/node_modules/.bin/babel.cmd" />
+      <option name="scopeName" value="notMinifiednotNode" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="C:/Git/snippets/genericSnippets/" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="false">
