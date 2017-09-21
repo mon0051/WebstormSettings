@@ -1,13 +1,4 @@
 <application>
-  <component name="DiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="DirDiff">
-        <PlaceSettings>
-          <option name="SYNC_BINARY_EDITOR_SETTINGS" value="false" />
-        </PlaceSettings>
-      </entry>
-    </option>
-  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
