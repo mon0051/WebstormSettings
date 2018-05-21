@@ -4,21 +4,15 @@
     <property name="created">2017-03-21T17:30:24</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2018-01-12T09:04:40</property>
+    <property name="modified">2018-05-21T11:56:08</property>
     <property name="originalScheme">Atom OneDark copy1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.04" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.03" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="17" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
