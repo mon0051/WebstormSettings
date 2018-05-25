@@ -24,6 +24,7 @@
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="JSON" value="true" />
     </context>
   </template>
