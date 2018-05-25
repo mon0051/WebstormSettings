@@ -28,4 +28,10 @@
       <option name="JSON" value="true" />
     </context>
   </template>
+  <template name="req" value="const $package$ = require('./$package$.js');" description="require as const" toReformat="false" toShortenFQNames="true">
+    <variable name="package" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
