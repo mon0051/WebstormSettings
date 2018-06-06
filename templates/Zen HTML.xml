@@ -2,4 +2,7 @@
   <template name="col" value="&lt;col&gt;" description="&lt;col&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="out" value="&lt;output&gt;$END$&lt;/output&gt;" description="&lt;output&gt;...&lt;/output&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
 </templateSet>

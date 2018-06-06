@@ -1,0 +1,9 @@
+<templateSet group="Angular">
+  <template name="out" value="&lt;div&gt;&lt;h6&gt;$entity$&lt;/h6&gt;{{vm.displayData.$entitycamel$}}&lt;/div&gt;$END$" description="output display data" toReformat="false" toShortenFQNames="true">
+    <variable name="entity" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="entitycamel" expression="camelCase(entity)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
