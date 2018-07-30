@@ -9,5 +9,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.require.transaction.for.model.changes" value="false" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
+    <entry key="ide.tooltip.show.with.actions" value="true" />
   </component>
 </application>
