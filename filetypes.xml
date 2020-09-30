@@ -5,25 +5,25 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Whole Numbers Only_ORUbQaiBo2i+J01fQLvmNm3rmKc" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping pattern="ADService2_glNzXFXX+HyEqd2NsoOpEbSfZ2Y" type="XML" />
-      <mapping ext="contracttypelist" type="XML" />
+      <mapping ext="config" type="XML" />
       <mapping ext="garageslist" type="XML" />
+      <mapping ext="contracttypelist" type="XML" />
+      <mapping ext="icls" type="XML" />
       <mapping ext="model" type="XML" />
+      <mapping ext="configuration" type="XML" />
+      <mapping ext="header" type="XML" />
+      <mapping ext="edit" type="XML" />
       <mapping ext="list" type="XML" />
       <mapping ext="task" type="XML" />
-      <mapping ext="edit" type="XML" />
-      <mapping ext="icls" type="XML" />
-      <mapping ext="header" type="XML" />
-      <mapping ext="configuration" type="XML" />
-      <mapping ext="config" type="XML" />
     </extensionMap>
   </component>
 </application>
