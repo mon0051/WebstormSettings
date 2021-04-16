@@ -1,0 +1,9 @@
+<templateSet group="html/xml">
+  <template name="col" value="&lt;div class=&quot;col-sm-$colSize$&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;" description="bootstrap columns" toReformat="false" toShortenFQNames="true">
+    <variable name="colSize" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

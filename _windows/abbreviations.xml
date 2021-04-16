@@ -1,0 +1,16 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="GotoAction">
+        <abbreviation name="to" />
+        <abbreviation name="jump" />
+        <abbreviation name="action" />
+        <abbreviation name="find" />
+        <abbreviation name="search" />
+        <abbreviation name="look for" />
+        <abbreviation name="lookup" />
+      </action>
+      <action id="ShowUmlDiagram" />
+    </abbreviations>
+  </component>
+</application>
